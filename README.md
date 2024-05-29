@@ -1,2 +1,2 @@
-# dart
-learning dart programming language
+# Dart
+Learning dart programming language
